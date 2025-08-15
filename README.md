@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello World! I'm Saee Phalke
 
-<!--
-**saeephalke/saeephalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Comp Sci Student at UCSD
+### Undergraduate Research Assistant for ArcLab
 
-Here are some ideas to get you started:
+- pronouns: she/her
+- age: 19
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I Know
+- Javascript
+- C
+- C++
+- Java
+- Python
