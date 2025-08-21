@@ -6,9 +6,7 @@
 - pronouns: she/her
 - age: 19
 
-Languages I Know
-- Javascript
-- C
-- C++
-- Java
-- Python
+Check out and use my latest projects here: 
+
+- https://github.com/saeephalke/ScrollStopper/releases
+- https://thetutortrainer.onrender.com/
